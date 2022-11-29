@@ -1,0 +1,9 @@
+build
+dist
+.idea
+*.txt
+*.csv
+*.mscons
+*.ini
+*.spec
+venv

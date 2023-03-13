@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="fuel_http_helper",
-    version="1.0.1",
+    version="1.0.2",
     author="bi-jvo",
     author_email="jvo@bi-web.de",
     description="Automatically uploads files to a Trilith FuelHttpServer",
